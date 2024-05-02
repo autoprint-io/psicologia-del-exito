@@ -1,38 +1,36 @@
 # Seminario Fénix sobre la Psicología del Éxito.
 
-# Tabla de Contenidos
+## Tabla de Contenidos
 
-1. [Introducción](#introducción)
-2. [Siete Leyes Mentales - Módulo 2](#siete-leyes-mentales---módulo-2)
-3. [¿Cómo desbloquear la potencialidad? – Módulo 3](#cómo-desbloquear-la-potencialidad---módulo-3)
-   - [Exploración de la potencialidad humana](#exploración-de-la-potencialidad-humana)
-   - [El auto-concepto y el rendimiento](#el-auto-concepto-y-el-rendimiento)
-4. [Estrategias para la auto-mejora - Módulo 4](#estrategias-para-la-auto-mejora---módulo-4)
-5. [Técnicas de visualización - Módulo 5](#técnicas-de-visualización---módulo-5)
-6. [Gestión del tiempo y productividad - Módulo 6](#gestión-del-tiempo-y-productividad---módulo-6)
-7. [Comunicación efectiva - Módulo 7](#comunicación-efectiva---módulo-7)
-8. [Liderazgo y motivación - Módulo 8](#liderazgo-y-motivación---módulo-8)
-9. [Resiliencia y manejo del estrés - Módulo 9](#resiliencia-y-manejo-del-estrés---módulo-9)
-10. [Desarrollo de habilidades interpersonales - Módulo 10](#desarrollo-de-habilidades-interpersonales---módulo-10)
-11. [Gestión de conflictos - Módulo 11](#gestión-de-conflictos---módulo-11)
-12. [Empoderamiento personal - Módulo 12](#empoderamiento-personal---módulo-12)
-13. [Creatividad e innovación - Módulo 13](#creatividad-e-innovación---módulo-13)
-14. [Desarrollo de carrera - Módulo 14](#desarrollo-de-carrera---módulo-14)
-15. [Inteligencia emocional - Módulo 15](#inteligencia-emocional---módulo-15)
-16. [Habilidades de negociación - Módulo 16](#habilidades-de-negociación---módulo-16)
-17. [Mindfulness y atención plena - Módulo 17](#mindfulness-y-atención-plena---módulo-17)
-18. [Salud y bienestar - Módulo 18](#salud-y-bienestar---módulo-18)
-19. [Planificación financiera - Módulo 19](#planificación-financiera---módulo-19)
-20. [Éxito en ventas - Módulo 20](#éxito-en-ventas---módulo-20)
-21. [Gestión del cambio - Módulo 21](#gestión-del-cambio---módulo-21)
-22. [Cultura organizacional - Módulo 22](#cultura-organizacional---módulo-22)
-23. [Networking efectivo - Módulo 23](#networking-efectivo---módulo-23)
-24. [Desarrollo organizacional - Módulo 24](#desarrollo-organizacional---módulo-24)
-25. [Emprendimiento y startups - Módulo 25](#emprendimiento-y-startups---módulo-25)
-26. [Sostenibilidad y responsabilidad social - Módulo 26](#sostenibilidad-y-responsabilidad-social---módulo-26)
-27. [Futuro del trabajo y adaptabilidad - Módulo 27](#futuro-del-trabajo-y-adaptabilidad---módulo-27)
+- [Módulo 1 - Bienvenidos al Seminario Fénix sobre la Psicología del Éxito.](#módulo-1---bienvenidos-al-seminario-fénix-sobre-la-psicología-del-éxito)
+- [Módulo 2 - Siete Leyes Mentales](#módulo-2---siete-leyes-mentales)
+- [Módulo 3 - ¿Cómo desbloquear la potencialidad?](#módulo-3---cómo-desbloquear-la-potencialidad)
+- [Módulo 4 - Su central de energía subconsciente](#módulo-4---su-central-de-energía-subconsciente)
+- [Módulo 5 - Cómo hacerse cargo de su vida](#módulo-5---cómo-hacerse-cargo-de-su-vida)
+- [Módulo 6 - Cómo eliminar emociones negativas](#módulo-6---cómo-eliminar-emociones-negativas)
+- [Módulo 7 - Cómo desbloquear los frenos](#módulo-7---cómo-desbloquear-los-frenos)
+- [Módulo 8 - Cómo anular las preocupaciones](#módulo-8---cómo-anular-las-preocupaciones)
+- [Módulo 9 - Cómo programar su mente para el éxito](#módulo-9---cómo-programar-su-mente-para-el-éxito)
+- [Módulo 10 - Cambiando su autoconcepto](#módulo-10---cambiando-su-autoconcepto)
+- [Módulo 11 - La nueva dieta mental](#módulo-11---la-nueva-dieta-mental)
+- [Módulo 12 - Informática para el cerebro](#módulo-12---informática-para-el-cerebro)
+- [Módulo 13 - Técnicas de aprendizaje rápido](#módulo-13---técnicas-de-aprendizaje-rápido)
+- [Módulo 14 - Relajación progresiva con música](#módulo-14---relajación-progresiva-con-música)
+- [Módulo 15 - Cinco claves para establecer metas](#módulo-15---cinco-claves-para-establecer-metas)
+- [Módulo 16 - 12 pasos hacia la consecución de las metas](#módulo-16---12-pasos-hacia-la-consecución-de-las-metas)
+- [Módulo 17 - Estrategias de administración de tiempo](#módulo-17---estrategias-de-administración-de-tiempo)
+- [Módulo 18 - Cómo duplicar su poder mental](#módulo-18---cómo-duplicar-su-poder-mental)
+- [Módulo 19 - Cómo explotar su genio interno](#módulo-19---cómo-explotar-su-genio-interno)
+- [Módulo 20 - Técnicas creadoras para la solución de problemas](#módulo-20---técnicas-creadoras-para-la-solución-de-problemas)
+- [Módulo 21 - Como aumentar su nivel de energía](#módulo-21---como-aumentar-su-nivel-de-energía)
+- [Módulo 22 - Cómo comprender la relación entre la mente y el cuerpo](#módulo-22---cómo-comprender-la-relación-entre-la-mente-y-el-cuerpo)
+- [Módulo 23 - Cómo eliminar el estrés y la tensión nerviosa](#módulo-23---cómo-eliminar-el-estrés-y-la-tensión-nerviosa)
+- [Módulo 24 - Cómo Desarrollar Una Personalidad Que Atrae A El Éxito](#módulo-24---cómo-desarrollar-una-personalidad-que-atrae-a-el-éxito)
+- [Módulo 25 - Cómo Lograr Relaciones Superiores](#módulo-25---cómo-lograr-relaciones-superiores)
+- [Módulo 26 - Cómo Criar Super Niños](#módulo-26---cómo-criar-super-niños)
+- [Módulo 27 - Cómo Encontrar El Verdadero Sentido De La Vida](#módulo-27---cómo-encontrar-el-verdadero-sentido-de-la-vida)
 
-## Bienvenidos al Seminario Fénix sobre la Psicología del Éxito.
+# Módulo 1 - Bienvenidos al Seminario Fénix sobre la Psicología del Éxito.
 
 Hola, soy Brian Tracy. Bienvenidos al Seminario Fénix sobre la Psicología del Éxito.
 
@@ -96,7 +94,7 @@ Yo afirmo que uno puede ser, tener o hacer cualquier cosa que quiera en la vida,
 
 Vamos allá y empecemos a explorar todo lo que son capaces de hacer, veamos lo que pueden llegar a ser en el futuro.
 
-## Siete Leyes Mentales - Módulo 2
+# Módulo 2 - Siete Leyes Mentales
 
 El punto de partida del conocimiento de uno mismo consiste en reconocer el siguiente hecho maravilloso; usted es extraordinario, usted es único. Hay una posibilidad de entre 50 mil millones de que exista alguien idéntico a usted; y la anatomía, la fisiología y la medicina, han demostrado que en cada parte de su cuerpo la composición de su sangre es distinta a la de cualquier otra persona que jamás haya vivido. Sus huellas dactilares son diferentes, sus huellas labiales son diferentes, hasta las huellas de los dedos de sus pies son únicas, las huellas de los dedos de sus pies son distintas a todas las demás, usted es diferente a todos los demás y el conocimiento de uno mismo empieza con la aceptación del hecho de que uno es un individuo único y especial y que tiene la capacidad de hacer algo maravilloso con su propia vida.
 
@@ -208,7 +206,7 @@ A lo largo de los años, usted ha acumulado y recopilado una enorme cantidad de 
 
 En el nuevo testamento, Jesús dijo una frase preciosa que cito y en la que pienso continuamente: “Por sus frutos los conoceréis”. Lo que esto significa, es que se puede saber lo que está sucediendo en el interior de una persona, la vida básica del carácter y los pensamientos de una persona, viendo los frutos de su vida exterior; su salud, sus relaciones, sus niveles de éxito. Si uno cambia su forma de pensar, cambia su vida, y según vaya avanzando este curso, le vamos a mostrar de manera sistemática cómo puede cambiar su forma de pensar y llevarla a una perfecta correlación en su interior con el tipo de vida positiva, feliz, dinámica, vital, con el éxito que desea en el exterior.
 
-## ¿Cómo desbloquear la potencialidad? – Módulo 3
+# Módulo 3 - ¿Cómo desbloquear la potencialidad?
 
 Cuando hablamos de la potencialidad humana, se ha preguntado alguna vez, ¿Qué es lo que explica la enorme diferencia en resultados y rendimiento entre una persona y otra? Ustedes saben que una persona que gana 25 millones al año no es 10 veces más lista o mejor que otra que gana 2 y medio al año. ¿Por qué la diferencia es de un factor de 10? ¿Y si sube hasta el tope de la escala, hasta una persona que gana 250 millones? ¿Es esa persona 100 veces mejor y más lista que la que gana 2 y medio? Imposible.
 
@@ -304,7 +302,7 @@ Resumamos, la clave para el éxito en la vida consiste en una actitud mental pos
 
 De modo que, uno de los secretos principales del éxito es este: conviértase en un organismo en generación perpetua de amor propio, dedíquese continuamente a hacer cosas para usted mismo, a usted mismo en su vida, que puedan hacer que se quiera, que se ame, que se acepte, que se respete, que le hagan encontrarse estupendo. Si es un jefe o un padre, recuerde que la clave para un rendimiento óptimo en su hogar y en su trabajo consiste en que la gente se considere estupenda. Cuanto mejor se encuentre uno, cuanto más se quiera, más fácil será hacer que la gente que le rodea se quiera, se ame, se acepte y se respete y así se creará un entorno de rendimiento óptimo. Este es el punto de partida para los grandes éxitos y logros en la vida. Así que, repítase una y otra vez: “me gusto, me gusto, me gusto, me gusto, me gusto”.
 
-## Su central de energía subconsciente – Módulo 4
+# Módulo 4 - Su central de energía subconsciente
 
 Para poder desbloquear su potencialidad plena, es absolutamente esencial que comprenda la relación entre la mente consciente y la subconsciente.
 
@@ -354,7 +352,7 @@ Ahora bien, ¿qué es lo más potente que puede hacer? Sencillamente esto; el é
 
 La clave de su éxito en la vida, consiste en utilizar el poder de su mente subconsciente para programarla con pensamientos, palabras, imágenes, ideas y sentimientos consecuentes con un alto rendimiento y centrar su mente en lo que desea y alejarla de lo que tema. Y recuerde, lo único en este mundo que puede controlar es su pensamiento. Lo único en el mundo que puede controlar son sus pensamientos conscientes, si hace eso, todo lo demás será posible para usted.
 
-## Cómo hacerse cargo de su vida – Módulo 5
+# Módulo 5 - Cómo hacerse cargo de su vida
 
 Dijimos en la primera serie de módulos que el punto de partida para todo rendimiento máximo es el amor propio. El amor propio consiste en lo que uno se aprecie, se ama, se acepta a sí mismo en tanto que ser humano válido y útil.
 
@@ -402,7 +400,7 @@ Descubrí por primera vez todo el concepto de la responsabilidad cuando tenía 2
 
 Si hay una idea que les quiero transmitir con esta pequeña anécdota, esta sencilla anécdota, es la siguiente: que el punto de partida hacia las estrellas, el punto de partida para hacerme cargo de mi vida, el punto de partida para obtener grandes éxitos y grandes logros, consiste en la aceptación de una responsabilidad completa e incondicional; si ha de suceder depende de mí, si ha de suceder depende de usted.
 
-## Cómo eliminar emociones negativas – Módulo 6
+# Módulo 6 - Cómo eliminar emociones negativas
 
 Sigamos hablando del tema de la responsabilidad frente a la falta de responsabilidad. Hace muchos años, en 1972, empecé a estudiar la psicología de la evolución de la potencialidad del ser humano y una de las cosas que se me hizo evidente en aquellas lecturas, y de la que nunca me recuperaría, fue el comentario sobre la relación entre la falta de responsabilidad y las emociones negativas. Y el hecho de que las emociones negativas sean las grandes emociones que bloquean o paralizan su vida; y mi vida.
 
@@ -500,7 +498,7 @@ Lo que descubrí fue esto: que la existencia de una sola emoción negativa que n
 
 Esto tiene sentido para ustedes y para mí, porque tenemos una tendencia a enamorarnos de nuestro sufrimiento. Tenemos una tendencia a llevar cargas y a pensar que estas emociones negativas son parte integrante de la propia humanidad. Ustedes tienden a ver que los demás son responsables, los demás nos han hecho daño, nos ha costado dinero, nos dañaron en una relación, pero la clave del rendimiento óptimo, la clave de la felicidad, la clave del éxito, consiste en utilizar la ley de la sustitución y eliminar esas emociones negativas directamente. La primera vez que algo les cause tensión, díganse: “soy responsable, soy responsable, soy responsable, soy responsable. Me gusto, soy responsable, me gusto y soy responsable. Nada en mi exterior va a trastornar mi mente, me hago cargo de mi vida emotiva. Soy responsable”. Usted es responsable.
 
-## Cómo desbloquear los frenos – Módulo 7
+# Módulo 7 - Cómo desbloquear los frenos
 
 Cuando hace años empecé a estudiar las emociones negativas, el punto más importante que descubrí fue que no podemos progresar hacia la salud, la felicidad, el amor y el desarrollo pleno de la potencialidad propia, mientras insistamos en conservar intactas nuestras emociones negativas.
 
@@ -657,7 +655,7 @@ La clave para liberarse a uno mismo de las emociones negativas, consiste en nega
 
 Recuerden, es un acto totalmente egoísta. Puede ser tan egoísta como quiera, pero el acto del perdón le libera a usted y a la otra persona y garantiza que usted avanzará rápidamente hacia la realización de su potencialidad.
 
-## Cómo anular las preocupaciones – Módulo 8
+# Módulo 8 - Cómo anular las preocupaciones
 
 Uno de nuestros principales objetivos en la vida es lograr la serenidad, y el motivo para que tan poca gente tenga serenidad es que no la consideran como una meta suficientemente importante, y si lo hacen no se toman el tiempo para comprender lo que se interpone entre ellos y la serenidad.
 
@@ -719,7 +717,7 @@ De modo que, decida ahora mismo que va a eliminar la preocupación, las experien
 
 Y ahora, al grano; haga todo lo humanamente posible para tomar una acción constructiva que le ayude a vencer la situación preocupante y eliminarla. Ésta es la clave para eliminar la última de las peores de nuestras emociones negativas.
 
-## Cómo programar su mente para el éxito – Módulo 9
+# Módulo 9 - Cómo programar su mente para el éxito
 
 Todo lo que es y lo que será, es el resultado de lo que sucede en su mente. Ese es el concepto más impresionante que yo –que cualquiera, haya descubierto. “Usted puede modificar de manera espectacular las realidades externas de su vida si cambia las actitudes internas en su mente”, como dijo William James.
 
@@ -817,7 +815,7 @@ La disciplina; estar dispuesto a hacer lo que uno sabe lo que debe hacer, cuando
 
 Un buen amigo mío decía “recuerda que la vida no es un ensayo, es la función real y lo que uno se tiene que preguntar es: ¿soy sincero cuando digo que soy y tengo y hago todo lo que me es posible?”. Si sigue un régimen mental de 21 días, un régimen de AMP, si centra sus pensamientos en lo que desea durante 21 días, si practica la ley y desarrolla nuevas costumbres, si repite las cosas una y otra vez, práctica la ley de la inversión y se imagina como la persona que desea ser y practica la ley de la expresión que todo lo que se imprime en su mente se expresa, se manifiesta en su realidad, verá que se producen cambios espectaculares en su vida, a veces mucho más deprisa de lo que se puede imaginar ahora. Créame yo lo sé, he intentado y probado todo lo que les recomiendo, miles de antiguos alumnos míos lo han hecho y han logrado resultados estupendos, serán estupendos también para usted, hablaremos más de ello durante el siguiente módulo.
 
-## Cambiando su autoconcepto – Módulo 10
+# Módulo 10 - Cambiando su autoconcepto
 
 Una vez más, les digo que para cambiar su vida han de empezar por cambiar su autoconcepto y esto nos hace volver a lo que comentábamos de los tres ingredientes del autoconcepto al principio. Dijimos que consta de tres partes; el autoideal, la autoimagen y el amor propio o lo que uno se quiere a sí mismo. Ahora, lo que quisiera hacer es hablar un poco de lo que llamamos el autoideal, porque el autoideal es la persona que más le gustaría ser.
 
@@ -915,7 +913,7 @@ Verbalice bien, hable en voz alta, asegúrese de que las cosas que se digan en v
 
 Y por fin, asuma el personaje, haga como si ya tuviera ese papel, asuma el personaje, imagine que le han contratado para representar en un gran teatro el papel de una persona que ha logrado un enorme éxito y que en este papel, lo que va a hacer es: andar, hablar y actuar como si el éxito fuera suyo, como si usted fuera el modelo, como si usted fuera la imagen ideal de la persona perfecta en la que quiere convertirse. Y si anda, habla y actúa en consecuencia, si lo representa, si lo visualiza, lo piensa y lo afirma una y otra vez, esa es la persona en la que se convertirá. Es tan inevitable como que el sol sale en el este y se pone en el oeste. Y en la próxima sesión les diré más acerca de cómo incorporar estos atributos de la personalidad a su carácter.
 
-## La nueva dieta mental – Módulo 11
+# Módulo 11 - La nueva dieta mental
 
 En la década de 1930, un hombre llamado Gayelord Hauser sorprendió al mundo con una serie de pretensiones y declaraciones en el sentido de que todo lo que comemos afecta a nuestro cuerpo de algún modo. Declaró que, todo lo que comemos se convierte en algo y produce un efecto positivo o negativo y escribió un libro llamado: “la nueva dieta lo logra”. En esta sesión y en las anteriores hemos hablado de la nueva dieta mental, al igual que todo lo que comemos produce un efecto en nuestro cuerpo físico, todo lo que entra en nuestra mente produce un efecto sobre nuestro ser mental, sobre lo que sucede en nuestro interior y determina lo que sucede a nuestro alrededor.
 
@@ -1017,7 +1015,7 @@ La teoría de la gran mentira fue el descubrimiento de que si se repite algo una
 
 Usted llegará a convertirse en lo que piense, su única tarea consiste en tomar una decisión muy, muy precisa en cuanto a la persona que desea ser, las cosas que desea tener, las metas que desea lograr y a continuación asegurarse de alimentar su mente continuamente, día tras día, semana tras semana, hora tras hora con palabras, imágenes, ideas, pensamientos e información consecuentes con sus metas y sus ideales. Centre su mente en lo que desea y aléjela de lo que no desea y todo será posible para usted.
 
-## Informática para el cerebro – Módulo 12
+# Módulo 12 - Informática para el cerebro
 
 ¿Cuál es el recurso más preciado en su vida? Si es usted como yo, su recurso más preciado es el tiempo. Según todos los estudios que se han realizado en los últimos tiempos, la mayoría de los adultos de Estados Unidos, Canadá y otros países, dan más valor al tiempo que al dinero. De resultas de lo que hemos comentado en las anteriores sesiones, que si se modifica el mundo interno se modifica también el mundo externo, una de las cosas que empieza a acumularse en nuestro interior es la impaciencia.
 
@@ -1099,7 +1097,7 @@ Si desea ser el mejor jugador de golf, mejor esquiador, mejor jugador de tenis, 
 
 Si usted es constante todo esto funcionará para usted.
 
-## Técnicas de aprendizaje rápido – Módulo 13
+# Módulo 13 - Técnicas de aprendizaje rápido
 
 Al principio de este seminario hablamos de la potencialidad humana y de cómo la persona media utiliza menos del 10 por ciento de su capacidad, de cómo a la muerte de Albert Einstein su cerebro fue estudiado en la universidad Cornell, averiguándose que en toda su vida jamás utilizó más del 15 por ciento de su capacidad mental. Uno de los grandes genios de nuestro siglo.
 
@@ -1191,7 +1189,7 @@ He aquí otro punto importante, la variedad. La variedad de estímulos es esenci
 
 Y número 7, recuerde lo que se denomina el periodo de atención. El momento en que más se aprende se produce al inicio de un periodo de estudio y al final de ese periodo. ¿Qué nos indica esto? Nos indica que en lugar de estudiar o leer durante un periodo de tiempo prolongado digamos dos o tres horas, lo que hay que hacer es dividirlo y descansar varias veces de modo que se produzcan una serie de pausas. Siempre recordará lo que aprenda al principio de la pausa, al principio del periodo y al final del periodo, el principio y el final. Cuantas más pausas haga, cuanta más variedad puede introducir en su estudio, más deprisa aprenderá. La clave es recordar lo siguiente; “Todo lo que usted es o será es el resultado de la información que introduzca en su mente, la información práctica, útil que absorba y emplee para producir algún tipo de mejora en el mundo que le rodea”. Si quiere ganar más tiene que aprender más, si quiere ser más feliz tiene que aprender más, si quiere desarrollar su capacidad plena en tanto que ser humano tiene que aprender más, esto quiere decir lea estudie y aprenda a aprender. Si lo hace, le sorprenderá la cantidad de potencialidad mental que puede liberar
 
-## Relajación progresiva con música – Módulo 14
+# Módulo 14 - Relajación progresiva con música
 
 La labor de Georgi Lozanov a la hora de establecer las ciencias de sugestología y sugestopedia; que consisten en la aplicación de un poder de sugestión al proceso del aprendizaje, también tiene aplicaciones para usted y para mí, en relación con la reprogramación de nuestra mente subconsciente.
 
@@ -1277,7 +1275,7 @@ La cinta que les damos con este programa les puede durar mucho tiempo, porque la
 
 Y, repito lo que dije antes, nunca he puesto una meta en una afirmación grabada que no haya logrado precisamente en el momento oportuno, justo del modo oportuno. Y funcionará para ustedes como lo ha hecho para mí. Buena suerte.
 
-## Cinco claves para establecer metas – Módulo 15
+# Módulo 15 - Cinco claves para establecer metas
 
 Al inicio de este seminario, pregunté “¿Por qué hay personas que tienen más éxito que otras?” Y un amigo que lleva muchos años en este campo me contó una historia que creo que les gustará y que me pareció muy indicativa; me contó que en su calidad de diácono de su congregación, invitó a un caballero judío a venir a su iglesia, una iglesia cristiana, y dar a la congregación una charla sobre religión comparada (la religión judía comparada con la cristiana). Pues bien, el caballero judío vino algunas semanas más tarde, se puso en pie, inició su charla y dijo: “señoras y señores, he examinado su libro y he examinado los nuestros, (añadió) he examinado sus enseñanzas básicas y las nuestras, y he llegado a esta conclusión: la biblia y el talmud, todos nuestros libros, dicen que las dos grandes reglas para la vida son: amarás a Dios sobre todas las cosas, y al prójimo como a ti mismo. Señoras y señores todo lo demás es comentario”. Todo lo demás… es comentario.
 
@@ -1422,7 +1420,7 @@ Pregunta número 6, ¿qué es lo que les produce mayor sensación de importancia
 
 Y pregunta número 7, ¿qué cosas se atreverían a soñar si supieran que no les sería negada? Permítanme sencillamente decir esto antes de terminar: la respuesta que hayan escrito como contestación a esta pregunta, lo que hayan escrito como respuesta, lo que se atreverían a soñar si supieran que no les sería negado ¡pueden serlo, tenerlo o hacerlo! La única pregunta es ¿hasta qué punto lo desean y están dispuestos a pagar el precio? Porque si están dispuestos a pagarlo y a trabajar en ello, pueden lograr todo lo que hayan escrito en esa lista; y a veces mucho más deprisa de lo que se pudieran atrever a imaginar; la pregunta es ¿hasta qué punto lo desean?
 
-## 12 pasos hacia la consecución de las metas – Módulo 16
+# Módulo 16 - 12 pasos hacia la consecución de las metas
 
 Hace años, uno de los hombres más sabios que he conocido me dio un secreto para el éxito que me impresionó enormemente, era este, me dijo que: “una de las cosas más importantes que había averiguado en 50 años de investigación, era la necesidad de utilizar unos métodos de éxito comprobado”. me dijo: “la vida es demasiado breve como para intentar volver a inventar la rueda o aprender todo por uno mismo”. Así que lo más inteligente que se puede hacer es utilizar lo que se conoce como “imaginación creadora”; que significa averiguar, lo que la gente ya ha hecho y que funciona y hacer lo mismo que ellos hasta llegar al punto en que uno conoce la cosa bien, para después mejorarla.
 
@@ -1554,7 +1552,7 @@ A Winston Churchill en una de las anécdotas más grandes de la historia de la h
 
 Y por fin, con respecto a la perseverancia; la calidad de hierro que determina todos sus éxitos. Permítanme que diga esto: “que la perseverancia es, la medida de la fe de uno en uno mismo”. Y cada vez que uno persevera frente a la adversidad, su fe en sí mismo aumenta, hasta que llega el momento en que nada puede pararle en el camino hacia sus metas.
 
-## Estrategias de administración de tiempo – Módulo 17
+# Módulo 17 - Estrategias de administración de tiempo
 
 Al inicio del seminario hablamos de las leyes mentales y de la ley de control. Dijimos que se tiene una opinión positiva sobre uno mismo en la medida en que se siente que controla su vida, y una opinión negativa sobre uno mismo en la medida en que siente que no la controla o en la medida en que siente que la controla en acontecimientos externos.
 
@@ -1623,7 +1621,7 @@ En un estudio realizado no hace mucho, por una revista de negocios entre 104 alt
 
 Y número 7, la séptima clave del éxito es, el equilibrio. Mantener equilibrio en la vida. Asegúrense de dedicar algo de tiempo todos los días a las personas próximas a ustedes. Asegúrense de dedicar tiempo todos los días a pensar en sus valores ¿qué es verdaderamente importante para ustedes? ¿Por qué están haciendo lo que hacen? ¿Qué es importante para ustedes y quiénes son las personas a las que aman? ¿Quiénes son las personas por las que sienten afecto y que sienten afecto por ustedes? Mantengan un equilibrio en su vida; que no sea todo trabajo, que no sea todo ocio, que no sea todo una cosa en concreto. Mantengan un equilibrio en su vida, dediquen tiempo a las personas queridas, trabajen bien cuando trabajen, jueguen bien cuando jueguen, administran bien su tiempo, controlen la secuencia de acontecimientos y podrán llegar a ser los que quieran ser.
 
-## Cómo duplicar su poder mental – Módulo 18
+# Módulo 18 - Cómo duplicar su poder mental
 
 Albert Einstein dijo en una ocasión que: “todos los niños son genios al nacer”. Y las recientes investigaciones parecen indicar que todo el mundo conserva la capacidad de funcionar como un genio; siempre que haya en el campo adecuado. Lo que deseamos decirles en esta sesión es que ustedes son genios; ustedes tienen la capacidad de funcionar a niveles excepcionales en al menos un campo de su vida si es que pueden localizarlo.
 
@@ -1723,7 +1721,7 @@ Pues bien, el punto más importante de todo este asunto consiste en entender lo 
 
 Y en el módulo siguiente les voy a decir cómo y por qué funciona esto.
 
-## Cómo explotar su genio interno – Módulo 19
+# Módulo 19 - Cómo explotar su genio interno
 
 Otra razón por la que puedo decir con total confianza que ustedes son genios, es porque tienen acceso a una mente muy superior, a cualquier cosa que pudieran elaborar o desarrollar por su propia cuenta.
 
@@ -1886,7 +1884,7 @@ Así que permítanme que termine repitiendo esto, la ley de actividad superconsc
 
 Esta es la razón de la grandeza, de todo hombre o mujer que haya vivido, todos los grandes dirigentes, escritores, autores, poetas o personas de negocios. Y la pueden explotar a placer, sencillamente definiendo con claridad meridiana ¿qué es exactamente lo que desean? Y a continuación, pensando sólo en lo que desean. Centrando su mente exclusivamente en lo que desean y alejándola de todo lo demás, hasta que se convierta en su realidad.
 
-## Técnicas creadoras para la solución de problemas – Módulo 20
+# Módulo 20 - Técnicas creadoras para la solución de problemas
 
 Recordarán que hemos hablado de una encuesta en la que se verificó el coeficiente de inteligencia de mil personas elegidas al azar; y se averiguó, que la diferencia entre el coeficiente de inteligencia de la persona menos inteligente, y el de la persona más inteligente, sólo era de 2 veces y media. Y recordarán, que comentamos en relación con los ingresos, que la gente que gana 25 millones al año no es 10 veces más inteligente que la gente que gana 2 millones y medio.
 
@@ -2024,7 +2022,7 @@ De modo, que en cuanto al pensamiento creador recuerden esto (lo repetiré): que
 
 Intenten cualquiera de estos métodos, utilícenlos de manera habitual y sistemática y… les garantizo que les sorprenderá lo inteligentes que realmente son.
 
-## Como aumentar su nivel de energía – módulo 21
+# Módulo 21 - Como aumentar su nivel de energía
 
 ¿Les gustaría tener más energía y vitalidad de las que tienen ahora? ¿Les gustaría aprender algunas técnicas que pueden utilizar a partir de ahora mismo para aumentar de manera espectacular su vitalidad de hora en hora? Pues bien, llevo muchos años estudiando la salud y la energía y en esta sesión les voy a dar siete claves para lograr mucha más salud, mucha más vitalidad y lo único que tiene que aportar son las 5 D:
 
@@ -2113,7 +2111,7 @@ Y, finalmente, está lo más difícil de todo, la disciplina. Hay un antiguo ref
 
 Un último punto, al principio de este seminario dijimos que el nivel de amor propio, la sensación de satisfacción con uno mismo, la medida en que uno se gusta, se quiere a uno mismo es el aspecto crítico de una personalidad sana. Y cada vez que consigan disciplinarse para lograr algo que saben que es bueno para ustedes, aumentarán sus niveles de energía y vitalidad, aumentarán su amor propio, tendrán sensaciones más positivas, más energía, se llevarán mejor con los demás y avanzarán más rápidamente en el camino de convertirse en la persona con éxito que pueden llegar a ser.
 
-## Cómo comprender la relación entre la mente y el cuerpo – Módulo 22
+# Módulo 22 - Cómo comprender la relación entre la mente y el cuerpo
 
 Hablemos ahora de la relación entre la mente y el cuerpo en la salud. De la medicina psicosomática, de la psique, la mente, del soma, el cuerpo y de cómo la psique, la mente produce un efecto sobre la salud física.
 
@@ -2197,7 +2195,7 @@ La clave es esta deben considerar su vida en términos de lo positivo frente a l
 
 Este es el punto de partida para la salud mental, la salud física y para todo éxito y felicidad en la vida.
 
-## Cómo eliminar el estrés y la tensión nerviosa – Módulo 23
+# Módulo 23 - Cómo eliminar el estrés y la tensión nerviosa
 
 Hemos dicho, una y otra vez, que la personalidad con éxito es la generalmente optimista, positiva, feliz, alegre; por así decirlo, extrovertida. Y también hemos dicho, desde el inicio, que gran parte de lo que son ustedes hoy es algo aprendido, que la mayoría de sus valores, sus actitudes, sus expectativas, sus comportamientos, su personalidad, sus cualidades y atributos los han aprendido por medio de un proceso de introducción de información, de repetición, de percepción selectiva repetidos una y otra vez, hasta llegar a ser las personas que son. También hemos dicho que todo lo que tienen hoy en su vida tangible o intangible, lo han atraído hacia ustedes debido a la persona que son. Pueden atraer más cosas hacia sí, porque pueden modificar la persona que son.
 
@@ -2371,7 +2369,7 @@ Número 5, superen la negación aceptando hacer frente a la realidad y aceptando
 
 Y finalmente la ira. La ira viene de intentar culpar a otro, intentar hallar algo o alguien ajeno a nosotros, a quien hacer responsable de nuestra infelicidad; la clave para afrontar la ira es aceptar la responsabilidad total. Hallen modos para no expresar emociones negativas, piense sin cesar en sus metas y dedíquese con tanto ahínco a trabajar en algo importante para usted que no le quede tiempo para la negatividad. Y finalmente recuerden lo siguiente, que el estrés es positivo siempre que esté orientado a unas metas; y si desarrolla muchísimo estrés orientado a metas lograrán grandes cosas, tendrán salud y energía, niveles bajos de dolencias físicas y probablemente llegarán a vivir 100 años.
 
-## Cómo Desarrollar Una Personalidad Que Atrae A El Éxito – Módulo 24
+# Módulo 24 - Cómo Desarrollar Una Personalidad Que Atrae A El Éxito
 
 El gran magnate del acero, Andrew Carnegie, que acumuló una fortuna de más de 500 millones de dólares a principios de este siglo y empezó como un pobre emigrante, dijo en una ocasión que: “pagaría más por la capacidad de llevarme bien con los otros, que por cualquier otra habilidad”. Y hoy en día, en nuestra sociedad, la capacidad de llevarse bien con los demás, la inteligencia social, es el activo más precioso, más valioso del que disponemos, no sólo en cuanto a nuestra profesión, nuestro matrimonio y nuestras relaciones, sino también en cuanto a nuestro bienestar mental.
 
@@ -2480,7 +2478,7 @@ Y la última regla, con respecto a unas relaciones humanas superiores, es la que
 
 Hace muchos años, cuando viajaba por áfrica, trabajé con el doctor Albert Schweitzer, una de las personas más maravillosas de todos los tiempos. De modo que, a menudo, en muchas situaciones me digo: “¿cómo actuaría Albert Schweitzer en esta situación?”, o me pregunto: “¿cómo actuaría Jesús de Nazaret en esta situación?”. Y si utilizan los modelos y utilizan como luz y guía la norma de hacer que los demás se sientan importantes, desarrollarán una personalidad para el éxito que les conducirán a lograr todo lo que deseen en la vida, en un mundo que está lleno de otras personas.
 
-## Cómo Lograr Relaciones Superiores – Módulo 25
+# Módulo 25 - Cómo Lograr Relaciones Superiores
 
 Una de las frases hechas más repetidas es que “por humilde que sea, nada hay como el hogar”. Benjamin Disraeli, el gran primer ministro de Inglaterra, dijo en una ocasión que “ningún éxito en la vida pública, puede compensar el fracaso en el hogar”. Y cuando iniciamos este curso, hace varias sesiones, hablamos de la importancia del poder del amor y de cómo ustedes y yo, en tanto que seres humanos, somos organismos orientados hacia el amor y de cómo todo lo que hacemos lo hacemos o para obtener amor o para compensar la ausencia de amor. Y en ningún aspecto es esto más importante, que en la calidad de las relaciones íntimas que formamos con los demás.
 
@@ -2586,7 +2584,7 @@ La, incompatibilidad es una realidad. Si no la pueden reparar, si no la pueden s
 
 Recuerden esto al pensar en las relaciones amorosas, que su objetivo, su responsabilidad, consiste en que la alegría y la satisfacción en la relación han de ser la norma mínima. Logren serenidad, felicidad, alegría, satisfacción, tranquilidad, que su hogar y la relación que viven sea la joya en la corona de su vida emocional y no se conformen con menos. Esfuércense, trabajen, pulan, cambien, hagan lo que sea necesario, pero es algo que se deben a sí mismos, a su vida, a su personalidad, a su integridad, a su serenidad, su salud y su futuro; no se conformen con nada menos, que una relación que les proporcione alegría.
 
-## Cómo Criar Super Niños – Módulo 26
+# Módulo 26 - Cómo Criar Super Niños
 
 Quizás la más permanente de las relaciones que se establecen en la vida, es la que se produce cuando se trae un niño al mundo; dura más que muchos matrimonios, más que los trabajos y las profesiones, dura más que el dinero y los sitios y los negocios, dura hasta la muerte de uno de los dos. Sin embargo, la mayoría de nosotros venimos al mundo sin tener ni idea de cómo criar a nuestros hijos; venimos sin ninguna cualificación elemental para ser padres y la gran tragedia es que la mayoría de la gente no hace ningún esfuerzo por adquirir estas cualificaciones.
 
@@ -2692,7 +2690,7 @@ El último punto que no deseo olvidar es el siguiente, que para pedir perdón a 
 
 Es lo mejor que se puede hacer por un niño y espero… que lo harán por sus hijos.
 
-## Cómo Encontrar El Verdadero Sentido De La Vida – Módulo 27
+# Módulo 27 - Cómo Encontrar El Verdadero Sentido De La Vida
 
 Y ahora llegamos a la pregunta final ¿cuál es el sentido de la vida? ¿Cuál es el sentido de su vida? ¿Por qué estamos aquí? ¿Existimos de verdad? ¿Por qué nos levantamos por la mañana, para qué vivimos, por qué estamos en este mundo? ¿Se trata sencillamente de nacer, crecer, trabajar, reproducirse, morir o hay algo más?
 
